@@ -1,11 +1,11 @@
 # Land Registration and Ownership Tracking System
 
 
-#Overview
+# Overview
 
 This project is a Java-based Land Registration and Ownership Tracking System designed to digitize land records and track ownership changes securely.
 
-#Features
+# Features
 
 Officer Login
 Owner Registration
@@ -25,5 +25,5 @@ Controller: Business logic handling
 <img width="1024" height="500" alt="Screenshot 2025-12-18 112059" src="https://github.com/user-attachments/assets/e6b1ea96-6015-4c1c-8586-3a9ac7e3a3dc" />
 <img width="1033" height="579" alt="Screenshot 2025-12-18 112130" src="https://github.com/user-attachments/assets/77b2e279-b07f-482c-9ced-a17bbfff43c3" />
 
-#Conclusion
+# Conclusion
 This project provides a reliable and scalable solution for land registration and ownership management.
